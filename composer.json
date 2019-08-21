@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendservice-apple-apns",
+    "name": "developers-iplato/zendservice-apple-apns",
     "description": "OOP Zend Framework 2 wrapper for Apple Push Notification Service",
     "type": "library",
     "keywords": [
